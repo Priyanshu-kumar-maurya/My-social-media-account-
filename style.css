@@ -1,0 +1,50 @@
+* {
+    margin: 5px;
+    padding: 4px;
+    
+}    
+body{
+    text-align: center;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+}
+h4{
+    color: #8cea10;
+    font-family: Inter;
+}
+h2,q{
+    color: aliceblue;
+    font-family: inherit;
+}
+.main{
+    border-radius: 5px;
+    width: 300px;
+    background-color: #322f2fa3;
+}  
+#button{
+    background-color: #323332;
+        border-radius: 4px;
+        cursor: pointer;
+        color: #fff;
+        border: none;
+        height: 2%;
+        padding: 10px;
+        width: 100%;
+}
+a{
+    color: #fff;
+    text-decoration: none
+}
+.btns{
+    /* width: 100%; */
+    /* align-items: center; */
+    text-align: center;
+    /* display: flex; */
+    flex-direction: column;
+} 
+.btn{
+    text-align: center;
+}  
+
+
